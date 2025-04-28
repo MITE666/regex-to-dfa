@@ -7,5 +7,7 @@ The program opens the json file and takes the regex expression from there. Then 
 
 ### Bibliography
 [Shunting Yard Algorithm](https://blog.cernera.me/converting-regular-expressions-to-postfix-notation-with-the-shunting-yard-algorithm/)
+
 [Thompson construction](https://en.wikipedia.org/wiki/Thompson%27s_construction)
+
 [NFA to DFA](https://www.youtube.com/watch?v=jMxuL4Xzi_A)
